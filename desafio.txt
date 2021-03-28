@@ -1,0 +1,6 @@
+====
+1. Clonar um repositorio de uma calculadora em python
+2. Conseguir compilar 
+3. Enviar um print para Carlos com o script funcionando
+4. Subir pro Git o projeto
+====
